@@ -4,3 +4,4 @@ description: An online version of the book Protistes Eucaryotes - Origine, Evolu
 
 markdown: kramdown
 theme: minima
+BASE_PATH: /Microbial-eukaryotes
