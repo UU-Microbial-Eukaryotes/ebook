@@ -1,7 +1,37 @@
 ---
 layout: default
 ---
-{%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-{{ content }}
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    {%- if page.title -%}
+      <h1 class="page-heading">{{ page.title }}</h1>
+    {%- endif -%}
+  <body>
+    {% include navigation.html %}
+    <br>
+    {{ content }}
+  </body>
+</html>
+<!--
+
+Each chapter is organized into sections.
+Below code is to create an index of the sections at the chapter page.
+-->
+
+<ul>
+    {% for doc in sections %}
+        <li><a href="site.book.Part2.phylogenetic_classification.sections.Rhizaria.html">{{ doc.title }}</a></li>
+    {% endfor %}
+</ul>
+
+<!--
+<ul>
+    {% for doc in site.book.Part2.phylogenetic_classification.sections %}
+      {% if doc.category == page.category %}
+        <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+</ul>
+-->

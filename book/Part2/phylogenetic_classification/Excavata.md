@@ -1,4 +1,0 @@
----
-layout: section
-title: Excavata
----

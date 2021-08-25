@@ -1,0 +1,80 @@
+docs_list_title: Table of contents
+toc:
+  - title: Preface
+    url: /book/preface.html
+  - title: Part 1. Origin of the eukaryotic cell
+    subfolderitems:
+      - page: Thing 1
+        url: /thing1.html
+      - page: Thing 2
+        url: /thing2.html
+        subsubfolderitems:
+          - page: Subthing 1
+            url: /subthing1.html
+          - page: Subthing 2
+            url: /subthing2.html
+      - page: Thing 3
+        url: /thing3.html
+  - title: Part 2. Diversity of the eukaryotic domain
+    subfolderitems:
+      - page: A little bit of history of extant organisms
+        url: /piece1.html
+        subsubfolderitems:
+          - page: Different attempts at classification
+            url: /subwidget1.html
+          - page: Some definitions
+            url: /subwidget2.html
+      - page: Towards an estimate of the diversity of eukaryotic protists
+        url: /piece2.html
+      - page: Methods for classifying organisms
+        url: /piece3.html
+      - page: The phylogenetic classification of eukaryotes
+        url: /book/Part2/phylogenetic_classification/intro.html
+        subsubfolderitems:
+          - page: Amorphea
+            url: /book/Part2/phylogenetic_classification/sections/Amorphea.html
+          - page: Opisthokonta
+            url: /book/Part2/phylogenetic_classification/sections/Opisthokonta.html
+          - page: Holozoa
+            url: /book/Part2/phylogenetic_classification/sections/Holozoa.html
+          - page: Holomycota
+            url: /book/Part2/phylogenetic_classification/sections/Holomycota.html
+          - page: Eumycota
+            url: /book/Part2/phylogenetic_classification/sections/Eumycota.html
+          - page: Ascomycota
+            url: /book/Part2/phylogenetic_classification/sections/Ascomycota.html
+          - page: Basidiomycota
+            url: /book/Part2/phylogenetic_classification/sections/Basidiomycota.html
+          - page: Amoebozoa
+            url: /book/Part2/phylogenetic_classification/sections/Amoebozoa.html
+          - page: Excavata
+            url: /book/Part2/phylogenetic_classification/sections/Excavata.html
+          - page: Diaphoretickes
+            url: /book/Part2/phylogenetic_classification/sections/Diaphoretickes.html
+          - page: Archaeplastida
+            url: /book/Part2/phylogenetic_classification/sections/Archaeplastida.html
+          - page: Hacrobia
+            url: /book/Part2/phylogenetic_classification/sections/Hacrobia.html
+          - page: Heterokonta
+            url: /book/Part2/phylogenetic_classification/sections/Heterokonta.html
+          - page: Ochrophyta
+            url: /book/Part2/phylogenetic_classification/sections/Ochrophyta.html
+          - page: Alveolata
+            url: /book/Part2/phylogenetic_classification/sections/Alveolata.html
+          - page: Rhizaria
+            url: /book/Part2/phylogenetic_classification/sections/Rhizaria.html
+          - page: Conclusion - a look back at the evolution of eukaryotes
+            url: /book/Part2/phylogenetic_classification/sections/conclusion.html
+  - title: Part 3
+    subfolderitems:
+      - page: Widget 1
+        url: /widget1.html
+        subsubfolderitems:
+          - page: Subwidget 1
+            url: /subwidget1.html
+          - page: Subwidget 2
+            url: /subwidget2.html
+      - page: Widget 2
+        url: /widget2.html
+      - page: Widget 3
+        url: /widget3.html
