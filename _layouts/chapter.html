@@ -14,24 +14,29 @@ layout: default
     {{ content }}
   </body>
 </html>
-<!--
 
+<!--
 Each chapter is organized into sections.
 Below code is to create an index of the sections at the chapter page.
 -->
-
-<ul>
-    {% for doc in sections %}
-        <li><a href="site.book.Part2.phylogenetic_classification.sections.Rhizaria.html">{{ doc.title }}</a></li>
+<br>
+<h3><em>Sections in this chapter:</em></h3>
+<div>
+{% if site.data.toc.toc[0] %}
+  {% for item in site.data.toc.toc %}
+    {% if item.subfolderitems[0] %}
+      <ul>
+        {% for entry in item.subfolderitems %}
+            {% if entry.page == page.title and entry.subsubfolderitems[0] %}
+              <ul>
+              {% for subentry in entry.subsubfolderitems %}
+                  <li><a href="{{ subentry.url | prepend: site.baseurl }}">{{ subentry.page }}</a></li>
+              {% endfor %}
+              </ul>
+            {% endif %}
+        {% endfor %}
+      </ul>
+    {% endif %}
     {% endfor %}
-</ul>
-
-<!--
-<ul>
-    {% for doc in site.book.Part2.phylogenetic_classification.sections %}
-      {% if doc.category == page.category %}
-        <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-</ul>
--->
+{% endif %}
+</div>

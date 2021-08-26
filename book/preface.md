@@ -1,5 +1,5 @@
 ---
-layout: section
+layout: default
 title: Preface
 category: Preface
 ---
