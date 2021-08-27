@@ -3,6 +3,13 @@ layout: section
 title: Basidiomycota
 category: Phylogenetic classification
 ---
+_Jump to section:_
+1. [Introduction](#introduction)
+2. [Pucciniomycotina](#pucciniomycotina)
+3. [Ustilaginomycotina](#ustilaginomycotina)
+4. [Agaricomycotina](#agaricomycotina)
+
+### Introduction
 The branch of Basidiomycota, or Basidiomycetes, forms the second large phylum of Eumycota since it contains 30% of the species of described fungi. A shared trait of all Basidiomycota is the production of their meiospores by budding of specialized cells, the basidia. The spores are therefore called basidiospores (Figure 164). In addition, the majority of species has a dikaryotic mycelium originated from plasmogamy of sexually compatible cells. In the Ascomycota, only Taphrinomycetes presents such a mycelium, as the dikaryotic stage is non-existent among Saccharomycotina and restricted to within the fruiting body in Pezizomycotina.
 
 The dikaryotic state is maintained according to the scheme shown in Figure 131. This mechanism produces a mycelium bearing a characteristic structure at the septa between the cells called a clamp connection (Figure 165). The observation of clamp connections is therefore a good diagnostic character to determine if a mycelium comes from a Basidiomycota, in addition to being dikaryotic. Nevertheless, all Basidiomycota do not produce clamp connections even at the dikaryotic stage, and absence of clamps is therefore not a good criterion for excluding such species from the phylum. Molecular phylogenies largely confirm the monophyly of the Basidiomycota and define three sub-branches: Pucciniomycotina, Ustilaginomycotina and Agaricomycotina (Figure 166).
