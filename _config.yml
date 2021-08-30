@@ -5,5 +5,8 @@ baseurl: "/Microbial-eukaryotes" # the subpath of your site, e.g. /blog
 url: "//markhilt.github.io" # the base hostname & protocol for your site
 github_username:  markhilt
 
+# Build setup:
 markdown: kramdown
 theme: minima
+plugins:
+  - jekyll-seo-tag

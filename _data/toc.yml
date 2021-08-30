@@ -4,17 +4,49 @@ toc:
     url: /book/preface.html
   - title: Part 1. Origin of the eukaryotic cell
     subfolderitems:
-      - page: Thing 1
+      - page: Reminder of the differences between prokaryotic and eukaryotic cells
         url: /thing1.html
-      - page: Thing 2
+        subsubfolderitems:
+          - page: The prokaryotic cell
+            url: /subthing1.html
+          - page: The eukaryotic cell
+            url: /subthing2.html
+      - page: In the footsteps of an intermediary between prokaryotes and eukaryotes
         url: /thing2.html
         subsubfolderitems:
-          - page: Subthing 1
+          - page: Prokaryotes with a nucleus?
             url: /subthing1.html
-          - page: Subthing 2
+          - page: Eukaryotes without organelles?
             url: /subthing2.html
-      - page: Thing 3
+      - page: What traces has the past left us?
         url: /thing3.html
+        subsubfolderitems:
+          - page: Fossils
+            url: /subthing1.html
+          - page: Chemical markers
+            url: /subthing2.html
+          - page: Genomic signatures
+            url: /subthing2.html
+      - page: Some theories to explain the origin of the eukaryotic cell
+        url: /thing3.html
+        subsubfolderitems:
+          - page: Theories of independent origins
+            url: /subthing1.html
+          - page: Simplification or complexity
+            url: /subthing2.html
+          - page: Theories of fusion and endosymbiosis
+            url: /subthing2.html
+      - page: Major events marking the evolution of eukaryotes
+        url: /thing3.html
+        subsubfolderitems:
+          - page: Mitochondria
+            url: /subthing1.html
+          - page: Plastids
+            url: /subthing2.html
+          - page: Symbiosis and its role in the evolution of eukaryotes
+            url: /subthing2.html
+          - page: Multicellularity
+            url: /subthing2.html
   - title: Part 2. Diversity of the eukaryotic domain
     subfolderitems:
       - page: A little bit of history of extant organisms
@@ -26,8 +58,22 @@ toc:
             url: /subwidget2.html
       - page: Towards an estimate of the diversity of eukaryotic protists
         url: /piece2.html
+        subsubfolderitems:
+          - page: Difficulty of the notion of species in eukaryotic protists
+            url: /subwidget1.html
+          - page: Methods for estimating the diversity of eukaryotic protists
+            url: /subwidget2.html
+          - page: Cosmopolitanism and endemism
+            url: /subwidget2.html
       - page: Methods for classifying organisms
         url: /piece3.html
+        subsubfolderitems:
+          - page: Convergent and regressive evolution
+            url: /subwidget1.html
+          - page: Molecular phylogenies - successes and setbacks
+            url: /subwidget2.html
+          - page: An overview of the diversity of eukaryotes
+            url: /subwidget2.html
       - page: The phylogenetic classification of eukaryotes
         url: /book/Part2/phylogenetic_classification/intro.html
         subsubfolderitems:
@@ -65,16 +111,35 @@ toc:
             url: /book/Part2/phylogenetic_classification/sections/Rhizaria.html
           - page: Conclusion - a look back at the evolution of eukaryotes
             url: /book/Part2/phylogenetic_classification/sections/conclusion.html
-  - title: Part 3
+  - title: Part 3 - Importance of eukaryotic protists
     subfolderitems:
-      - page: Widget 1
+      - page: Roles of eukaryotic protists in the biosphere
         url: /widget1.html
         subsubfolderitems:
-          - page: Subwidget 1
+          - page: Biotopes on the scale of eukaryotic microbes
             url: /subwidget1.html
-          - page: Subwidget 2
+          - page: Global carbon cycle
             url: /subwidget2.html
-      - page: Widget 2
+          - page: Marine ecosystems
+            url: /subwidget1.html
+          - page: Terrestrial ecosystems
+            url: /subwidget2.html
+          - page: Nitrogen cycle and other geochemical cycles
+            url: /subwidget1.html
+          - page: Conclusions
+            url: /subwidget2.html
+      - page: Interactions of protists with human societies
         url: /widget2.html
-      - page: Widget 3
-        url: /widget3.html
+        subsubfolderitems:
+          - page: Roles in food
+            url: /subwidget1.html
+          - page: Role in the pharmaceutical industry - secondary metabolites
+            url: /subwidget2.html
+          - page: Some uses of eukaryotic protists in other industries
+            url: /subwidget1.html
+          - page: Parasites of humans, pets and livestock
+            url: /subwidget2.html
+          - page: Parasites of plants and other eukaryotes
+            url: /subwidget1.html
+          - page: Damage to buildings, art objects and other utensils
+            url: /subwidget2.html
