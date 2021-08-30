@@ -20,7 +20,7 @@ Nucleariida live mainly as amoeba with radiating pseudopodia (Figure 102). These
 
 <br>
 ### Aphelida
-The few known species of Aphelida are intracellular parasites of unicellular algae whose populations they regulate. The trophic phase is in the form of small phagotrophic amoebae which will give rise to plasmodia (Figure 104). These plasmodia will eventually go through schizogony and produce spores inside the lining of their hosts, which they use for protection. The resulting zoospores can be, depending on the species, either amoeboid or flagellated with the posterior flagellum typical of Opisthonkonta. At the base of the flagellum is also a second centriole. There is an immobile pseudo-flagellum in _Amoeboaphelidium_, the origin of which is obscure. The sequences of some genes show a non-standard genetic code in these microorganisms: UAG and UAA seem to code for glutamine instead of stop.
+The few known species of Aphelida are intracellular parasites of unicellular algae whose populations they regulate. The trophic phase is in the form of small phagotrophic amoebae which will give rise to plasmodia (Figure 104). These plasmodia will eventually go through schizogony and produce spores inside the lining of their hosts, which they use for protection. The resulting zoospores can be, depending on the species, either amoeboid or flagellated with the posterior flagellum typical of Opisthokonta. At the base of the flagellum is also a second centriole. There is an immobile pseudo-flagellum in _Amoeboaphelidium_, the origin of which is obscure. The sequences of some genes show a non-standard genetic code in these microorganisms: UAG and UAA seem to code for glutamine instead of stop.
 
 <br>
 ### Rozellomycota
