@@ -1,9 +1,9 @@
 title: Microbial Eukaryotes
-author: Philippe Silar
-description: An online version of the book Protistes Eucaryotes - Origine, Evolution et Biologie des Microbes Eucaryotes by Philippe Silar translated to English.
+author: Markus Hiltunen, Mahwash Jamy, Fabien Burki & Hanna Johannesson
+description: >
+  An e-book about the evolution and diversity of microbial eukaryotes including fungi.
 baseurl: "/Microbial-eukaryotes" # the subpath of your site, e.g. /blog
 url: "//markhilt.github.io" # the base hostname & protocol for your site
-github_username:  markhilt
 
 # Build setup:
 markdown: kramdown
