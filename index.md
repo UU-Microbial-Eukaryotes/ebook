@@ -10,6 +10,6 @@ layout: home
 
 ![Eukaryotic protists]({{"/assets/images/cover_art.jpg" | relative_url}})
 
-Author: Philippe Silar
+Original author: Philippe Silar
 
-Translated and adapted for the web: Markus Hiltunen, Mahwash Jamy, Fabien Burki, Hanna Johannesson
+Translated, modified and adapted for the web: Markus Hiltunen, Mahwash Jamy, Fabien Burki, Hanna Johannesson
