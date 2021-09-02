@@ -5,6 +5,12 @@ description: >
 baseurl: "/Microbial-eukaryotes" # the subpath of your site, e.g. /blog
 url: "//markhilt.github.io" # the base hostname & protocol for your site
 
+# Trying to add a couple custom variables here:
+# copyright: Copyright © 2021 Markus Hiltunen, Mahwash Jamy, Fabien Burki, Hanna Johannesson # Maybe don't use this for now...
+license:
+  name: CC-BY-NC-SA 4.0
+  url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
 # Build setup:
 markdown: kramdown
 theme: minima
