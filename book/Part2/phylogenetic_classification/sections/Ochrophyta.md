@@ -3,26 +3,11 @@ layout: section
 title: Ochrophyta
 category: Phylogenetic classification
 ---
-_Jump to section:_
-1. [Introduction](#introduction)
-2. [Khakista](#khakista)
-  - [Bacillariophyta](#bacillariophyta)
-3. [Hypogyrista](#hypogyrista)
-  - [Dictyochophyceae](#dictyochophyceae)
-  - [Pelagophyceae](#pelagophyceae)
-4. [Eustigmista](#eustigmista)
-5. [Phagochrysia](#phagochrysia)
-  - [Picophagea](#picophagea)
-  - [Synchromophyceae](#synchromophyceae)
-  - [Chrysophyceae](#chrysophyceae)
-  - [Synurophyceae](#synurophyceae)
-6. [Marista](#marista)
-  - [Xanthophyceae](#xanthophyceae)
-  - [Aurearenophyceae, Phaeothamniophyceae and Chrysomerophyceae](#aurearenophyceae-phaeothamniophyceae-and-chrysomerophyceae)
-  - [Phaeophyta](#phaeophyta)
+* auto-gen TOC:
+{:toc}
 
 <br>
-### Introduction
+## Introduction
 The Ochrophyta line mainly brings together so-called "golden-brown" algae. Their plastids are surrounded by four branches, the outermost of which is continuous with that of the reticulum. They therefore have the same structure as in Haptophyta and Cryptophyta. This structure indicates that they are the result of a true secondary endosymbiosis with a [Rhodophyta](/Microbial-eukaryotes/book/Part2/phylogenetic_classification/sections/Archaeplastida.html#rhodophyta), as shown in Figure 38. Their colors in brown, greenish, yellowish or golden tones are conferred by photosynthetic pigments which mainly include chlorophyll a, chlorophyll c and fucoxanthins. Their reserve polymers are oils like leucosine or specific polysaccharides like laminarins or chrysolaminarins. These polysaccharides are small β-1-3 and β-1-6 glucans, comprising from 50 to 60 glucose residues. They are stored in a vacuole outside the plastid.
 
 Ochrophyta are found in practically all biotopes: marine water, fresh water or humid terrestrial environments. Some are associated with [Eumycota]({{ site.baseurl }}{% link book/Part2/phylogenetic_classification/sections/Eumycota.md %}) to form lichens. Many species have retained the ability to phagocytize prey and therefore feed by mixotrophy; others can live by osmotrophy. Some lines have secondarily lost their photosynthetic capacity and feed exclusively by phagotrophy. Thalli can be unicellular or multicellular. The [Phaeophyta](#phaeophyta) line even invented a complex multicellularity. Their size can vary from a few microns in unicellulars, to impressive dimensions of several tens of meters long as in _Sargassum_. Ochrophyta algae are important primary producers at the base of the food chain. They make up much of the phytoplankton and algae cover along the coasts.
@@ -30,11 +15,11 @@ Ochrophyta are found in practically all biotopes: marine water, fresh water or h
 The classification of Ochrophyta was completely upset by the arrival of molecular phylogenies which showed that some traditional groupings were artificial, and that others, suggesting the presence of exclusively phagotrophic organisms in this group, were real. Figure 269 shows only the main lineages, as the work of analyzing the different species is far from over.
 
 <br>
-### Khakista
+## Khakista
 The monophyletic line Khakista which diverged first contains the class Bolidophyceae and the superclass [Bacillariophyta](#bacillariophyta) (Figure 269). The Bolidophyceae class contains two orders, Bolidomonales and Parmales. Only two species of Bolidomonales have been described so far. Both belong to the genus _Bolidomonas_. These algae, about which little is known, have the typical structure of the Heterokonta flagellates (Figure 270). Very small in size, they lack the siliceous scales that protect the algae of the order Parmales (Figure 270), of which there are about fifteen species. These algae are in fact covered with five to eight silicate plates which are reminiscent of the siliceous shell, or frustule, which protects the [Bacillariophyta](#bacillariophyta) algae.
 
 <br>
-#### Bacillariophyta
+### Bacillariophyta
 The Bacillariophyta are better known under the common name of diatoms. There are more than 13,000 described species. However, some phycologists suggest that their diversity is much greater and that there are more than a million! Although unicellular or forming simple colonies, their size varies over three orders of magnitude (from 2 μm to 2 mm), almost as much as terrestrial plants! They are ubiquitous in fresh water and in moist soils. Several species live associated with mosses or as symbionts. But it is in the oceans that they are particularly prevalent. Smaller diatoms are found mostly in the spring and fall, while giant diatoms are abundant throughout the year. In cold seas, they make up a large part of the phytoplankton and it is estimated that, via their photosynthesis, diatoms alone fix between 25% and 50% of the total carbon on earth! It is probably the major group of eukaryotic marine phytoplankton, accounting for about 50% of marine phytoplankton biomass. By their quantity, diatoms participate not only in the carbon cycle, but also in the geochemical cycle of silicon. Some warm sea species live in symbiosis with nitrogen-fixing bacteria and cyanobacteria. These symbioses are important players in the nitrogen cycle. The strategies that explain the success of diatoms are varied. As they have a large vacuole which represents about 40% of their volume, they can store nitrates and phosphates. They are therefore able to go through several generations without supply of nutrients and can live in environments where the supply of nutrients is inconsistent. They quickly deplete the environment to prevent competition from other algae. Finally, they secrete aldehydes which stop the development of their main predators which are generally microscopic crustaceans or Ciliophora.
 
 The trophic form of diatoms is devoid of flagellum and is protected by a siliceous structure called a frustule (Figure 271). The frustule is composed of crystallized Si(OH)<sub>4</sub> silicate associated with proteins and polyamines. Diatoms are absolutely dependent on the presence of soluble silica for their growth. Indeed, after division, the cell must regenerate half of the frustule. The frustule looks like a Petri dish made up of two parts: the thecae (= valves). The bottom valve is called hypotheca and the cover epitheca. During the division each daughter cell takes away half of the frustule. The hypotheca is made in a Golgi-derived vesicle before being exported by exocytosis. The modalities of division cause cells that receive the hypotheca to grow smaller and smaller, while those that receive the epitheca do not change in size (Figure 272).
@@ -46,49 +31,49 @@ The different structures of the frustules are correlated with different methods 
 Diatoms have many applications in human activities. Living species are used to control the quality of water because each species presents particular needs for its growth (pH, salt concentrations, dissolved nitrogen, temperature, etc.). However, it is the fossil species that are the most used. Indeed, the abundant deposition of their frustules over time has allowed the formation of relatively pure layers of "diatomaceous earth" or diatomite. This material is used as an adjuvant in many preparations: detergents, abrasives for polishing, products to remove paint, bleaches, deodorants or fertilizers. They also serve as filters, in particular for certain purification experiments in organic chemistry, are included in the composition of anti-noise products or luminescent paints. More recently, they have been introduced as insecticides because their siliceous frustules perforate the wax layer which protects the insects from dehydration. About 800,000 tonnes of diatomaceous earth are extracted each year at a value of around 150 million euros.
 
 <br>
-### Hypogyrista
+## Hypogyrista
 <a id="dictyochophyceae"></a>The line of Hypogyrista seems to diverge after that of Khakista. It also contains two classes, those of Dictyochophyceae and Pelagophyceae. There are over a hundred species of Dictyochophyceae (Figure 269) which have very different morphologies and biologies, although all are unicellular. Some, such as _Florenciella parvula_, have the typical Heterokonta morphology and are exclusively photosynthetic, while species of the order Dictyochales are also photosynthetic but are characterized by variable morphology. They can take an amoeboid form with an internal siliceous skeleton and a single flagellum carrying mastigonemes (Figure 275). Dictyochophyceae also have a uninucleated stage with the two flagella of the Heterokonta; however the posterior flagellum without mastigoneme is visible only under the electron microscope. They also have a larger multinucleated stadium, reaching almost half a millimeter. Some Dictyochophyceae are mixotrophic like some species of the order Pedinellales, while others, like _Ciliophrys infusionum_, and Rhizochromulinales, like _Rhizochromulina marina_, feed exclusively by phagotrophy. The former are heliozoan amoeboflagellates while the latter are small amoebae with pseudopodia (Figure 275). Ultrastructural analyzes have shown the presence of a relic of a plastid in non-photosynthetic species, strongly suggesting that they are derived from photosynthetic species, and phylogenies indicate that they have arisen independently at least twice during evolution. These organisms are less common than diatoms, but have a cosmopolitan distribution and are still quite common. Little is known about these very fragile organisms. In particular, sexual reproduction has not been described. On the other hand, there are many fossils of Dictyochales which are useful to paleontologists. They are known as Silicoflagellata.
 
 <a id="pelagophyceae"></a>There are about fifteen species of Pelagophyceae. They are unicellular algae often very small, sometimes remaining grouped in small colonies (figure 276). Some species, including Aureococcus anophagefferens, sometimes swarm in estuaries; the cell concentration can reach 10 billion cells per liter! It seems that they secrete toxins, in particular causing the death of eelgrass, as well as those of organisms that live in the prairies of these marine plants such as fish, molluscs and other invertebrates.
 
 <br>
-### Eustigmista
+## Eustigmista
 The line of Eustigmista which seems to then diverge would also contain two classes, Eustigmatophyceae and Pinguiophyceae (Figure 269). The dozen or so known species of Eustigmatophyceae are unicellular, protected by a cellulosic wall and devoid of flagella during the trophic phase (Figure 277). Their photosynthetic pigments, which do not contain chlorophyll c, give them a green color. Some species differentiate from zoospores. Depending on the species, these have one or two flagella and most often have a conspicuous orange-red ocellus. These algae are marine, freshwater or terrestrial. The Pinguiophyceae class contains five species. They are unicellular marine algae. The trophic forms are without flagellum (Figure 278), except in one species; two species differentiate zoospores with a single flagellum without mastigoneme. They are best known for their richness in omega 3. Note that the molecular phylogenies have not yet clearly determined the branching topology of the previous four classes and that their position may be called to change in the future.
 
 <br>
-### Phagochrysia
+## Phagochrysia
 The remainder of the Ochrophyta appears to form a monophyletic complex (Figure 269), which divides into two lineages, Phagochrysia and Marista. Phagochrysia group together three main lineages: [Picophagea](#picophagea), [Synchromophyceae](#synchromophyceae) and [Chrysophyta](#chrysophyta), as well as a set of species, such as _Leukarachnion_, whose taxonomic position has not yet been officially finalized.
 
 <br>
-#### Picophagea
+### Picophagea
 The class Picophagea, which diverged first, currently contains the single species _Picophagus flagellatus_, a small phagotrophic flagellate with a flagellar apparatus typical of Heterokonta (Figure 279).
 
 <br>
-#### Synchromophyceae
+### Synchromophyceae
 The next class, Synchromophyceae, contains four species of algae with plastids with an atypical structure (Figure 280). These algae have amoeboid morphologies and are protected by loricas. They are related to several species of mixotrophic amoebae, i.e. phagotrophs and photosynthetic, such as _Chlamydomyxa labyrinthuloides_, or exclusively phagotrophic such as _Leukarachnion batrachospermi_ (Figure 279). At this time, these organisms are not included in the class Synchromophyceae and their plastids do not show the atypical structure shown in Figure 280.
 
 <br>
-#### Chrysophyceae
+### Chrysophyceae
 The Chrysophyta superclass is currently subdivided into two classes: Chrysophyceae and Synurophyceae. With more than 600 species, Chrysophyceae are the most numerous. They are mostly unicellular freshwater algae, but there are a few species that are colonial, filamentous or with a more complex thallus (Figure 281). Most are photosynthetic but a few lack plastids, such as _Oikomonas_ sp. which diverged at the base of the Chrysophyta, or has leucoplasts without photosynthetic pigment. However, they all seem to have the possibility of feeding by phagotrophy and some are efficient predators. In some lakes, they form a large part of the primary producers and are therefore at the base of the food chain. Most have the two characteristic Heterokonta flagella, at least during their dispersal phase. However, _Oikomonas_, a bacterivorous phagotroph, only possesses the anterior flagellum carrying mastigonemes (Figure 281). These are bipartite and not tripartite. Some species are protected by a lorica, as in _Dinobryon_, or siliceous scales. Sexuality is poorly understood; Chrysophyceae appear to have a haplobiontic cycle. They are able to differentiate silicate resistance cysts, called stomatocysts, which have left numerous fossil traces (Figure 282). The first stomatocysts appeared 110 million years ago in marine sediments and about 50 million years ago in freshwater sediments.
 
 <br>
-#### Synurophyceae
+### Synurophyceae
 There are around 300 species of Synurophyceae. These algae share the same biological characteristics as the Chrysophyceae, including the ability to differentiate from stomatocysts, and are often grouped together in the same class. They are covered with siliceous scales; a feature also exhibited by some species of Chrysophyceae. However, they do not have c2 chlorophylls unlike Chrysophyceae. They have all lost the ability to swallow prey. In addition, their plastids and flagella have a different ultrastructure. Note that some of these algae have morphologies reminiscent of those of Chlorophyta, thus exhibiting convergent evolution (Figure 281). In particular, _Synura_, a Synurophyceae, is very reminiscent of the _Eudorina_, a Chlorophyta. As in Chrysophyceae, the sexual cycle is poorly understood.
 
 <br>
-### Marista
+## Marista
 The Marista lineage contains seven taxa of unequal importance. The Raphidophyceae class contains around 40 species (Figure 283). These large, single-celled algae are characterized by the presence of organs called mucocysts involved in capturing prey or defending against predators. These are vesicles that secrete mucus when stimulated. They have the two flagella typical of Heterokonta and lack a protective wall. They are found in rather acidic freshwater and marine waters. Molecular phylogenies show that heliozoans appear to be related to Raphidophyceae. Indeed, they seem to have the Actinophryida as their sister class. Also called Nucleohelea, this lineage includes several species of heliozoans (Figure 284). They are large phagotrophs, very voracious because they are able to swallow large prey such as small crustaceans. They are common in freshwater. A single nucleus is present in the center of the cell and the outer area of the cytoplasm is riddled with vacuoles which are involved in water management. Their actinopods are supported by a set of microtubules arranged in double-spirals, which differentiates them from other heliozoans (Figure 285). They divide by binary fission and are able, when conditions are not good, to differentiate into cysts surrounded by a wall with several layers. Sexual reproduction takes place by autogamy, that is to say that the mother cell goes through meiosis and ends up producing two gametes which merge to give back the diploid zygote.
 
 <br>
-#### Xanthophyceae
+### Xanthophyceae
 About 600 species belong to the Xanthophyceae class. They are mainly freshwater algae, but a few species live in moist soils, on trees or in the sea. A few live in association with fungi to form lichens present in the intertidal zone. Most are rare, except for the species of the genera _Tribonema_ and _Vaucheria_ which seem cosmopolitan. Xanthophyceae come in several forms: unicellular flagellate, colonial in a gelatinous matrix, in the form of amoeba living on or in plants, or in coenocytic form such as _Botrydium granulatum_ or _Vaucheria_ (Figure 286). They do not have fucoxanthins but chlorophyll a with a little chlorophyll c and other pigments like violathanine, vaucherioxanthin or heteroxanthin, which gives them a green / yellowish color, very similar to that of some Viridiplantae algae. They have silicates in their cell wall. Interestingly, some species are able to differentiate between cysts whose wall is composed like that of diatoms of two halves, one of which is embedded in the other. Sexual reproduction is known for a few species and takes place via gametes of different sizes. In _Vaucheria_, spermatozoa are differentiated into hook-shaped antheridia (Figure 286). They have the typical heterochonous biflagellate structure. The female gamete is a large cell called an oogonium. Fertilization is followed by differentiation of the thallus. The life cycle is therefore diplobiontic. However, in the majority of cases, reproduction occurs asexually, including through fragmentation of the filaments or generation of spores. In _Vaucheria_, the sporangium located at the apex of a filament differentiates a single zoospore moving by means of multiple flagella (Figure 286).
 
 <br>
-#### Aurearenophyceae, Phaeothamniophyceae and Chrysomerophyceae
+### Aurearenophyceae, Phaeothamniophyceae and Chrysomerophyceae
 The Aurearenophyceae class currently contains only one officially described species, _Aurearena cruciata_ (Figure 287). This unicellular algae lives in the coastal waters of sandy beaches. It adopts a sessile form devoid of flagellum or a biflagellate form possessing the flagellar apparatus typical of Heterokonta. This species is sometimes grouped together with Phaeothamniophyceae, in the monospecific order of Aurearenales. The Phaeothamniophyceae class includes around thirty single-celled or single-colony-forming species (Figure 287) and that of Chrysomerophyceae six species (Figure 287). These algae differ from each other and from other algae in the ultrastructural details of the flagellum base, the presence of an ocellus and that of mastigonemes.
 
 <br>
-#### Phaeophyta
+### Phaeophyta
 The Phaeophyta superclass is currently divided into two classes. That of Schizocladiophyceae contains only one species: _Schizocladia ischiensis_. This marine algae differentiates a simple thallus composed of branched filaments (Figure 288). Its dispersion is ensured by zoospores possessing the two flagella typical of Heterokonta. Molecular phylogenies place it as a sister group of Phaeophyceae or brown algae. This numerically and ecologically significant class includes more than 2,000 species.
 
 Phaeophyceae are uniquely multicellular algae and overwhelmingly marine. Some species can reach respectable sizes up to 60 m. The simple forms are formed of small branched filaments and resemble _Schizocladia ischiensi_, while the more "complex" forms have invented a complex multicellularity and differentiate between structures such as stems, air-filled flotation vesicles or spikes that serve as anchors to the substrate (Figure 289). Growth usually occurs through cell divisions located at the apex of the thallus. Nevertheless, the growth can be intercalary in some species. Mitosis is special because the nuclear membrane does not disappear until towards the end of anaphase; mitosis is therefore said to be semi-closed. Cell divisions can occur in all directions creating fairly thick tissue. The species of the orders Laminariales and Desmarestiales exhibit elongated cells which serve as vascular tissues resembling those of land plants; in particular, there may be plasmodesmas between the cells (Figure 290). This invention seems recent because the fossils with such tissues date to only a few million years old. Note that the first fossils of brown algae date from around 500 Ma ago. The cells are protected by a wall made up of cellulose, alginates and sulphated polysaccharides.

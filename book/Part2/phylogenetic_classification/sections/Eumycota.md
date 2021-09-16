@@ -3,23 +3,6 @@ layout: section
 title: Eumycota
 category: Phylogenetic classification
 ---
-_Jump to section:_
-1. [Introduction](#introduction)
-2. [Zoosporic fungi](#zoosporic-fungi)
-  - [Chytridiomycota](#chytridiomycota)
-  - [Neocallimastigomycota](#neocallimastigomycota)
-  - [Monoblepharidomycota](#monoblepharidomycota)
-  - [Blastocladiomycota](#blastocladiomycota)
-  - [Olpidium](#olpidium)
-3. [Zygomycetous fungi](#zygomycetous-fungi)
-  - [Entomophthoromycota](#entomophthoromycota)
-  - [Zoopagomycotina](#zoopagomycotina)
-  - [Kickxellomycotina](#kickxellomycotina)
-  - [Mucoromycotina](#mucoromycotina)
-  - [Mortierellomycotina](#mortierellomycotina)
-  - [Glomeromycota](#glomeromycota)
-4. [Dikarya](#dikarya)
-
 * auto-gen TOC:
 {:toc}
 

@@ -3,14 +3,8 @@ layout: section
 title: Basidiomycota
 category: Phylogenetic classification
 ---
-_Jump to section:_
-1. [Introduction](#introduction)
-2. [Pucciniomycotina](#pucciniomycotina)
-3. [Ustilaginomycotina](#ustilaginomycotina)
-4. [Agaricomycotina](#agaricomycotina)
-  - [Tremellomycetes](#tremellomycetes)
-  - [Dacrymycetes](#dacrymycetes)
-  - [Agaricomycetes](#agaricomycetes)
+* auto-gen TOC:
+{:toc}
 
 ### Introduction
 The branch of Basidiomycota, or Basidiomycetes, forms the second large phylum of **[Eumycota]({{ site.baseurl }}{% link book/Part2/phylogenetic_classification/sections/Eumycota.md %})** since it contains 30% of the species of described fungi. A shared trait of all Basidiomycota is the production of their meiospores by budding of specialized cells, the basidia. The spores are therefore called basidiospores (Figure 164). In addition, the majority of species has a dikaryotic mycelium originated from plasmogamy of sexually compatible cells. In the [Ascomycota]({{ site.baseurl }}{% link book/Part2/phylogenetic_classification/sections/Ascomycota.md %}), only [Taphrinomycetes](/Microbial-eukaryotes/book/Part2/phylogenetic_classification/sections/Ascomycota.html#taphrinomycotina) presents such a mycelium, as the dikaryotic stage is non-existent among [Saccharomycotina](/Microbial-eukaryotes/book/Part2/phylogenetic_classification/sections/Ascomycota.html#saccharomycotina) and restricted to within the fruiting body in [Pezizomycotina](/Microbial-eukaryotes/book/Part2/phylogenetic_classification/sections/Ascomycota.html#pezizomycotina).

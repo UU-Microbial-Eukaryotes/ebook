@@ -3,14 +3,8 @@ layout: section
 title: Heterokonta
 category: Phylogenetic classification
 ---
-_Jump to section:_
-1. [Introduction](#introduction)
-2. [Sagenista](#sagenista)
-3. [Opalinozoa](#opalinozoa)
-4. [Gyrista](#gyrista)
-5. [Oomycota](#oomycota)
-6. [Hyphochytridiomycota](#hyphochytridiomycota)
-
+* auto-gen TOC:
+{:toc}
 
 <br>
 ### Introduction

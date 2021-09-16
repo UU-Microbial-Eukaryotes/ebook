@@ -3,6 +3,8 @@ layout: section
 title: Archaeplastida
 category: Phylogenetic classification
 ---
+* auto-gen TOC:
+{:toc}
 
 <br>
 ## Introduction

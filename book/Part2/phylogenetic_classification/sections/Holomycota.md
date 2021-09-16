@@ -3,13 +3,8 @@ layout: section
 title: Holomycota
 category: Phylogenetic classification
 ---
-_Jump to section:_
-1. [Introduction](#introduction)
-2. [Nucleariida](#nucleariida)
-3. [Aphelida](#aphelida)
-4. [Rozellomycota](#rozellomycota)
-  - [Rozellida](#rozellida)
-  - [Microsporidia](#microsporidia)
+* auto-gen TOC:
+{:toc}
 
 <br>
 ### Introduction

@@ -3,6 +3,8 @@ layout: section
 title: Rhizaria
 category: Phylogenetic classification
 ---
+* auto-gen TOC:
+{:toc}
 
 <br>
 ## Introduction

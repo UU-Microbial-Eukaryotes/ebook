@@ -3,6 +3,8 @@ layout: section
 title: Alveolata
 category: Phylogenetic classification
 ---
+* auto-gen TOC:
+{:toc}
 
 ## Introduction
 The **Alveolata** have been clearly defined thanks to molecular phylogenies. The phylogenies indicate that Alveolata are related to **[Heterokonta]({{ site.baseurl }}{% link book/Part2/phylogenetic_classification/sections/Heterokonta.md %})** and **[Rhizaria]({{ site.baseurl }}{% link book/Part2/phylogenetic_classification/sections/Rhizaria.md %})** in a lineage tentatively called SAR or Harosa (Figure 215). Alveolata have the common characteristics of having vesicles positioned just under their plasma membrane, forming a kind of alveoli (Figure 294). Their mitochondria have tubular ridges. The alveoli have allowed the evolution of attributes specific to each evolutionary lineage. Note that the Glaucophyta also have alveoli which probably appeared by evolutionary convergence.
