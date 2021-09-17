@@ -49,13 +49,13 @@ toc:
             url: /subthing2.html
   - title: Part 2. Diversity of the eukaryotic domain
     subfolderitems:
-      - page: A little bit of history of extant organisms
-        url: /piece1.html
+      - page: A brief history of the classification of living organisms
+        url: /book/Part2/history_of_classification/intro.html
         subsubfolderitems:
           - page: Different attempts at classification
-            url: /subwidget1.html
+            url: /book/Part2/history_of_classification/sections/attempts_at_classification.html
           - page: Some definitions
-            url: /subwidget2.html
+            url: /book/Part2/history_of_classification/sections/definitions.html
       - page: Towards an estimate of the diversity of eukaryotic protists
         url: /piece2.html
         subsubfolderitems:
