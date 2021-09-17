@@ -57,14 +57,14 @@ toc:
           - page: Some definitions
             url: /book/Part2/history_of_classification/sections/definitions.html
       - page: Towards an estimate of the diversity of eukaryotic protists
-        url: /piece2.html
+        url: /book/Part2/estimate_of_diversity/intro.html
         subsubfolderitems:
           - page: Difficulty of the notion of species in eukaryotic protists
-            url: /subwidget1.html
+            url: /book/Part2/estimate_of_diversity/sections/species_notion.html
           - page: Methods for estimating the diversity of eukaryotic protists
-            url: /subwidget2.html
+            url: /book/Part2/estimate_of_diversity/sections/methods_for_diversity.html
           - page: Cosmopolitanism and endemism
-            url: /subwidget2.html
+            url: /book/Part2/estimate_of_diversity/sections/cosmopolitanism_and_endemism.html
       - page: Methods for classifying organisms
         url: /piece3.html
         subsubfolderitems:
