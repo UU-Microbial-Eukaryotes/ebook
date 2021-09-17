@@ -66,14 +66,14 @@ toc:
           - page: Cosmopolitanism and endemism
             url: /book/Part2/estimate_of_diversity/sections/cosmopolitanism_and_endemism.html
       - page: Methods for classifying organisms
-        url: /piece3.html
+        url: /book/Part2/methods_of_classification/intro.html
         subsubfolderitems:
           - page: Convergent and regressive evolution
-            url: /subwidget1.html
+            url: /book/Part2/methods_of_classification/sections/convergent_and_regressive_evolution.html
           - page: Molecular phylogenies - successes and setbacks
-            url: /subwidget2.html
+            url: /book/Part2/methods_of_classification/sections/molecular_phylogenies.html
           - page: An overview of the diversity of eukaryotes
-            url: /subwidget2.html
+            url: /book/Part2/methods_of_classification/sections/diversity_overview.html
       - page: The phylogenetic classification of eukaryotes
         url: /book/Part2/phylogenetic_classification/intro.html
         subsubfolderitems:
