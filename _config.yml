@@ -2,8 +2,8 @@ title: Microbial Eukaryotes
 author: Markus Hiltunen, Mahwash Jamy, Fabien Burki & Hanna Johannesson
 description: >
   An e-book about the evolution and diversity of microbial eukaryotes including fungi.
-baseurl: "/Microbial-eukaryotes" # the subpath of your site, e.g. /blog
-url: "//markhilt.github.io" # the base hostname & protocol for your site
+# baseurl: "/Microbial-eukaryotes" # the subpath of your site, e.g. /blog
+url: "//uu-microbial-eukaryotes.github.io/" # the base hostname & protocol for your site
 
 # Trying to add a couple custom variables here:
 # copyright: Copyright © 2021 Markus Hiltunen, Mahwash Jamy, Fabien Burki, Hanna Johannesson # Maybe don't use this for now...
