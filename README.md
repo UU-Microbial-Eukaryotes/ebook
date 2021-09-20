@@ -1,4 +1,4 @@
-# Microbial-eukaryotes
+# Microbial eukaryotes: Diversity and Evolution
 
 This is the repository for the [Microbial eukaryotes ebook](https://uu-microbial-eukaryotes.github.io/ebook/).
 
