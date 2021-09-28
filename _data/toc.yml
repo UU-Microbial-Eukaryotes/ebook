@@ -5,48 +5,48 @@ toc:
   - title: Part 1. Origin of the eukaryotic cell
     subfolderitems:
       - page: Reminder of the differences between prokaryotic and eukaryotic cells
-        url: /thing1.html
+        url: /book/Part1/prokaryotic_eukaryotic_differences/intro.html
         subsubfolderitems:
           - page: The prokaryotic cell
-            url: /subthing1.html
+            url: /book/Part1/prokaryotic_eukaryotic_differences/sections/prokaryotes.html
           - page: The eukaryotic cell
-            url: /subthing2.html
+            url: /book/Part1/prokaryotic_eukaryotic_differences/sections/eukaryotes.html
       - page: In the footsteps of an intermediary between prokaryotes and eukaryotes
-        url: /thing2.html
+        url: /book/Part1/intermediary/intro.html
         subsubfolderitems:
           - page: Prokaryotes with a nucleus?
-            url: /subthing1.html
+            url: /book/Part1/intermediary/sections/prokaryotes_with_a_nucleus.html
           - page: Eukaryotes without organelles?
-            url: /subthing2.html
+            url: /book/Part1/intermediary/sections/eukaryotes_without_organelles.html
       - page: What traces has the past left us?
-        url: /thing3.html
+        url: /book/Part1/past_traces/intro.html
         subsubfolderitems:
           - page: Fossils
-            url: /subthing1.html
+            url: /book/Part1/past_traces/sections/fossils.html
           - page: Chemical markers
-            url: /subthing2.html
+            url: /book/Part1/past_traces/sections/chemical_markers.html
           - page: Genomic signatures
-            url: /subthing2.html
+            url: /book/Part1/past_traces/sections/genomic_signatures.html
       - page: Some theories to explain the origin of the eukaryotic cell
-        url: /thing3.html
+        url: /book/Part1/origin_theories/intro.html
         subsubfolderitems:
           - page: Theories of independent origins
-            url: /subthing1.html
+            url: /book/Part1/origin_theories/sections/independent_origins.html
           - page: Simplification or complexity
-            url: /subthing2.html
+            url: /book/Part1/origin_theories/sections/simplification_or_complexity.html
           - page: Theories of fusion and endosymbiosis
-            url: /subthing2.html
+            url: /book/Part1/origin_theories/sections/fusion_and_endosymbiosis.html
       - page: Major events marking the evolution of eukaryotes
-        url: /thing3.html
+        url: /book/Part1/major_events/intro.html
         subsubfolderitems:
           - page: Mitochondria
-            url: /subthing1.html
+            url: /book/Part1/major_events/sections/mitochondria.html
           - page: Plastids
-            url: /subthing2.html
+            url: /book/Part1/major_events/sections/plastids.html
           - page: Symbiosis and its role in the evolution of eukaryotes
-            url: /subthing2.html
+            url: /book/Part1/major_events/sections/symbiosis.html
           - page: Multicellularity
-            url: /subthing2.html
+            url: /book/Part1/major_events/sections/multicellularity.html
   - title: Part 2. Diversity of the eukaryotic domain
     subfolderitems:
       - page: A brief history of the classification of living organisms
