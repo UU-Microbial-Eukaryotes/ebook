@@ -114,32 +114,32 @@ toc:
   - title: Part 3 - Importance of eukaryotic protists
     subfolderitems:
       - page: Roles of eukaryotic protists in the biosphere
-        url: /widget1.html
+        url: /book/Part3/roles/intro.html
         subsubfolderitems:
           - page: Biotopes on the scale of eukaryotic microbes
-            url: /subwidget1.html
+            url: /book/Part3/roles/sections/scales.html
           - page: Global carbon cycle
-            url: /subwidget2.html
+            url: /book/Part3/roles/sections/carbon_cycle.html
           - page: Marine ecosystems
-            url: /subwidget1.html
+            url: /book/Part3/roles/sections/marine.html
           - page: Terrestrial ecosystems
-            url: /subwidget2.html
+            url: /book/Part3/roles/sections/terrestrial.html
           - page: Nitrogen cycle and other geochemical cycles
-            url: /subwidget1.html
+            url: /book/Part3/roles/sections/nitrogen_cycle.html
           - page: Conclusions
-            url: /subwidget2.html
+            url: /book/Part3/roles/sections/conclusions.html
       - page: Interactions of protists with human societies
-        url: /widget2.html
+        url: /book/Part3/interactions/intro.html
         subsubfolderitems:
           - page: Roles in food
-            url: /subwidget1.html
+            url: /book/Part3/roles/interactions/food.html
           - page: Role in the pharmaceutical industry - secondary metabolites
-            url: /subwidget2.html
+            url: /book/Part3/roles/interactions/pharmaceutics.html
           - page: Some uses of eukaryotic protists in other industries
-            url: /subwidget1.html
+            url: /book/Part3/roles/interactions/other_industries.html
           - page: Parasites of humans, pets and livestock
-            url: /subwidget2.html
+            url: /book/Part3/roles/interactions/animal_parasites.html
           - page: Parasites of plants and other eukaryotes
-            url: /subwidget1.html
-          - page: Damage to buildings, art objects and other utensils
-            url: /subwidget2.html
+            url: /book/Part3/roles/interactions/plant_parasites.html
+          - page: Damage to buildings, art objects and other structures
+            url: /book/Part3/roles/interactions/damages.html
