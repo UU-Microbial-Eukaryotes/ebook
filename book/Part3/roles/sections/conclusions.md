@@ -1,0 +1,6 @@
+---
+layout: section
+title: Conclusions
+category: Roles of protists
+---
+In summary, eukaryotic protists form a large fraction of biomass - some biologists actually say the largest fraction - even if they are often not very visible in ecosystems because they are hidden in soils or too small to be seen by the naked eye. Like prokaryotes, they are ubiquitous, including in the most surprising places: a study shows that fifteen days after their commissioning, almost all dishwashers have their joints colonized by prokaryotes and microscopic eukaryotes! However, their survival in ecosystems with temperatures above 65°C can only be temporary. They have very important roles in the major biogeochemical cycles, roles that are often poorly understood and underestimated. The most essential role may be that of Eumycota through their associations with plants, their role in the degradation of lignocellulosic biomass, their effects on soil health and the mobilization of the various trace elements required for cell functioning (Figure 358). Another important role of protists is found in the oceans where they participate not only in carbon fixation and the first stages of food chains, thus providing living matter to larger heterotrophs such as animals, but also in the return of various minerals to the sediments (Figure 359).
