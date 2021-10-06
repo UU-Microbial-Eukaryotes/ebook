@@ -132,14 +132,14 @@ toc:
         url: /book/Part3/interactions/intro.html
         subsubfolderitems:
           - page: Roles in food
-            url: /book/Part3/roles/interactions/food.html
+            url: /book/Part3/interactions/sections/food.html
           - page: Role in the pharmaceutical industry - secondary metabolites
-            url: /book/Part3/roles/interactions/pharmaceutics.html
+            url: /book/Part3/interactions/sections/pharmaceutics.html
           - page: Some uses of eukaryotic protists in other industries
-            url: /book/Part3/roles/interactions/other_industries.html
+            url: /book/Part3/interactions/sections/other_industries.html
           - page: Parasites of humans, pets and livestock
-            url: /book/Part3/roles/interactions/animal_parasites.html
+            url: /book/Part3/interactions/sections/animal_parasites.html
           - page: Parasites of plants and other eukaryotes
-            url: /book/Part3/roles/interactions/plant_parasites.html
+            url: /book/Part3/interactions/sections/plant_parasites.html
           - page: Damage to buildings, art objects and other structures
-            url: /book/Part3/roles/interactions/damages.html
+            url: /book/Part3/interactions/sections/damages.html
