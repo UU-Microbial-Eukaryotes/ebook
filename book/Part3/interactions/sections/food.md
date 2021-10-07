@@ -3,6 +3,7 @@ layout: section
 title: Roles in food
 category: Interactions of protists with human societies
 ---
+
 Unlike plants and animals, the direct consumption of eukaryotic protists is often only a minor part of human diet. Protists that we eat are mainly the carpophores of Dikarya macromycetes (see page 195 and figure 360) and Rhodophyta (see page 272) or Phaeophyta (see page 331). However, some additional yeast-based products such as Marmite or Vegemite (Figure 361) are also consumed.
 
 On the other hand, eukaryotic microbes are widely used in the manufacture of food, including that traditionally produced for a very long time. Eumycota fungi are the main protists to have been used, and in our Western societies, _Saccharomyces cerevisiae_ (Box 16), a Saccharomycotina of the Ascomycota phylum, holds pride of place in the fungal-based food industry because it is used in the manufacture of bread and in that of alcohols: beers, wines, ciders... It has been cultivated by man for more than 9,000 years to make wine in Asia Minor, more than 6,000 years to ferment beer in Babylon and over 2,000 years to bake bread in Egypt.
