@@ -1,0 +1,12 @@
+---
+---
+@import "{{ site.theme }}";
+details {
+  background: #eee;
+  margin-bottom: 2rem;
+  padding: .5rem 1rem;
+}
+
+summary {
+  cursor: pointer;
+}
