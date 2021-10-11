@@ -10,7 +10,7 @@ _Jump to section:_
 ## Introduction
 We define symbiosis as the assembly of two or more organisms living in close association more or less continuously, independently of the relationships they have between them. Prey/predator relationships are therefore excluded. We can roughly define 3 main types of symbiotic relationships:
 * <a id=mutualism></a>Relationships where both partners have an advantage. We then speak of **mutualism**. In general, when we speak of symbioses without any other qualifier, it is this type of relationship that is implied
-* <a id=commensalism></a>Relationships where the two partners do not enjoy any obvious advantage, but neither are they troubled by any obvious disadvantage. We then speak of **commensalism**. We also speak of commensalism when one of the two partners does not derive any benefit from the association but the presence of the other does not bother him, as in the case of part of the microflora hosted by vertebrates. [_Translator's note:_ Very unclear how this is not mutualism]
+* <a id=commensalism></a>Relationships where the two partners do not enjoy any obvious advantage, but neither are they troubled by any obvious disadvantage. We then speak of **commensalism**.
 * <a id=parasitism></a>Relationships where one of the two partners takes advantage of the other, which suffers a loss of its biological capacities. We then speak of **parasitism**.
 
 <a id=endosymbiosis></a>
