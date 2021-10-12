@@ -1,12 +1,9 @@
----
----
-@import "{{ site.theme }}";
+/// Added styling for details and summary to beautify dropdown menus
 details {
   background: #eee;
   margin-bottom: 2rem;
   padding: .5rem 1rem;
 }
-
 summary {
   cursor: pointer;
 }
