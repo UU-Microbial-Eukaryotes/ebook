@@ -1,0 +1,64 @@
+1_prok-cell:
+  name: 1_prok-cell
+  url: /assets/images/1_prok-cell.png
+  number: 1
+2_prok-flagella:
+  name: 2_prok-flagella
+  url: /assets/images/2_prok-flagella.png
+  number: 2
+3_euk-cell:
+  name: 3_euk-cell
+  url: /assets/images/3_euk-cell.png
+  number: 3
+4_vesicles:
+  name: 4_vesicles
+  url: /assets/images/4_vesicles.png
+  number: 4
+5_pseudopodia:
+  name: 5_pseudopodia
+  url: /assets/images/5_pseudopodia.png
+  number: 5
+6_microtubules-flagella:
+  name: 6_microtubules-flagella
+  url: /assets/images/6_microtubules-flagella.png
+  number: 6
+7_mitosis:
+  name: 7_mitosis
+  url: /assets/images/7_mitosis.png
+  number: 7
+8_meiosis:
+  name: 8_meiosis
+  url: /assets/images/8_meiosis.png
+  number: 8
+9_lifecycle:
+  name: 9_lifecycle
+  url: /assets/images/9_lifecycle.png
+  number: 9
+10_phagocytosis:
+  name: 10_phagocytosis
+  url: /assets/images/10_phagocytosis.png
+  number: 10
+11_pirellula:
+  name: 11_pirellula
+  url: /assets/images/11_pirellula.png
+  number: 11
+12_gemmata:
+  name: 12_gemmata
+  url: /assets/images/12_gemmata.png
+  number: 12
+13_gemmata-divides:
+  name: 13_gemmata-divides
+  url: /assets/images/13_gemmata-divides.png
+  number: 13
+14_dinos-chromo:
+  name: 14_dinos-chromo
+  url: /assets/images/14_dinos-chromo.png
+  number: 14
+15_splice:
+  name: 15_splice
+  url: /assets/images/15_splice.png
+  number: 15
+16_mito:
+  name: 16_mito
+  url: /assets/images/16_mito.png
+  number: 16

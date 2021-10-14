@@ -1,0 +1,9 @@
+<!-- _includes/image.html -->
+<div class="image-wrapper" >
+    {% if include.number %}
+      <p class="image-number">Figure {{ include.number }}.</p>
+    {% endif %}
+    {% if include.caption %}
+      <p class="image-caption">{{ include.caption }}</p>
+    {% endif %}
+</div>
