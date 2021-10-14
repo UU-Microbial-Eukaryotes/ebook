@@ -7,3 +7,22 @@ details {
 summary {
   cursor: pointer;
 }
+
+/// Added styling for image captions
+.image-wrapper {
+    text-align: center;
+
+    .image-number {
+        color: $grey-color;
+        margin-top: $spacing-unit / 3;
+        font-weight: bold;
+        display:inline;
+    }
+
+    .image-caption {
+        color: $grey-color;
+        margin-top: $spacing-unit / 3;
+        display:inline;
+    }
+
+}

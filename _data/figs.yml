@@ -1,64 +1,64 @@
-dinos-chromo-14:
-  name: dinos-chromo-14
-  url: /assets/images/dinos-chromo-14.png
+1_prok-cell:
+  name: 1_prok-cell
+  url: /assets/images/1_prok-cell.png
   number: 1
-euk-cell-3:
-  name: euk-cell-3
-  url: /assets/images/euk-cell-3.png
+2_prok-flagella:
+  name: 2_prok-flagella
+  url: /assets/images/2_prok-flagella.png
   number: 2
-gemmata-12:
-  name: gemmata-12
-  url: /assets/images/gemmata-12.png
+3_euk-cell:
+  name: 3_euk-cell
+  url: /assets/images/3_euk-cell.png
   number: 3
-gemmata-divides-13:
-  name: gemmata-divides-13
-  url: /assets/images/gemmata-divides-13.png
+4_vesicles:
+  name: 4_vesicles
+  url: /assets/images/4_vesicles.png
   number: 4
-lifecycle-9:
-  name: lifecycle-9
-  url: /assets/images/lifecycle-9.png
+5_pseudopodia:
+  name: 5_pseudopodia
+  url: /assets/images/5_pseudopodia.png
   number: 5
-meiosis-8:
-  name: meiosis-8
-  url: /assets/images/meiosis-8.png
+6_microtubules-flagella:
+  name: 6_microtubules-flagella
+  url: /assets/images/6_microtubules-flagella.png
   number: 6
-microtubules-flagella-6:
-  name: microtubules-flagella-6
-  url: /assets/images/microtubules-flagella-6.png
+7_mitosis:
+  name: 7_mitosis
+  url: /assets/images/7_mitosis.png
   number: 7
-mito-16:
-  name: mito-16
-  url: /assets/images/mito-16.png
+8_meiosis:
+  name: 8_meiosis
+  url: /assets/images/8_meiosis.png
   number: 8
-mitosis-7:
-  name: mitosis-7
-  url: /assets/images/mitosis-7.png
+9_lifecycle:
+  name: 9_lifecycle
+  url: /assets/images/9_lifecycle.png
   number: 9
-phagocytosis-10:
-  name: phagocytosis-10
-  url: /assets/images/phagocytosis-10.png
+10_phagocytosis:
+  name: 10_phagocytosis
+  url: /assets/images/10_phagocytosis.png
   number: 10
-pirellula-11:
-  name: pirellula-11
-  url: /assets/images/pirellula-11.png
+11_pirellula:
+  name: 11_pirellula
+  url: /assets/images/11_pirellula.png
   number: 11
-prok-cell:
-  name: prok-cell
-  url: /assets/images/prok-cell.png
+12_gemmata:
+  name: 12_gemmata
+  url: /assets/images/12_gemmata.png
   number: 12
-prok-flagella-2:
-  name: prok-flagella-2
-  url: /assets/images/prok-flagella-2.png
+13_gemmata-divides:
+  name: 13_gemmata-divides
+  url: /assets/images/13_gemmata-divides.png
   number: 13
-pseudopodia-5:
-  name: pseudopodia-5
-  url: /assets/images/pseudopodia-5.png
+14_dinos-chromo:
+  name: 14_dinos-chromo
+  url: /assets/images/14_dinos-chromo.png
   number: 14
-splice-15:
-  name: splice-15
-  url: /assets/images/splice-15.png
+15_splice:
+  name: 15_splice
+  url: /assets/images/15_splice.png
   number: 15
-vesicles-4:
-  name: vesicles-4
-  url: /assets/images/vesicles-4.png
+16_mito:
+  name: 16_mito
+  url: /assets/images/16_mito.png
   number: 16
