@@ -26,3 +26,10 @@ summary {
     }
 
 }
+
+img + em {
+  text-align: center;
+  color: $grey-color;
+  margin-top: $spacing-unit / 3;
+  font-style: normal;
+ }
