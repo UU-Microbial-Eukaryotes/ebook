@@ -14,8 +14,9 @@ Figures are inserted into the markdown with the help of two jekyll includes: fig
 ```
 {%- include fignum.html fn="1_prok-cell" -%} # This will insert "Figure <X>" as an html "a" tag in the text, 
                                              # where X is the number of the figure called "1_prok-cell" in _data/figs.yml.
-{% include figure.html figname="1_prok-cell" caption="Caption text here." %} # This will insert the figure "1_prok-cell.png" 
-                                                                             # at this position in the page. Write the caption 
-                                                                             # directly when calling this include. Html font tags work, 
+{% include figure.html figname="1_prok-cell" caption="text" %} # This will insert the figure "1_prok-cell.png" 
+                                                                             # at this position in the page. Add the caption 
+                                                                             # directly as a parameter when calling this 
+                                                                             # include. Html font tags work in the caption, 
                                                                              # e.g. <i>italics</i>
 ```
