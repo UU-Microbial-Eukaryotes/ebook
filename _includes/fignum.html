@@ -1,5 +1,1 @@
-<!-- _includes/image.html -->
-{% if include.fn %}
-  {% assign fig = site.data.figs[{{include.fn}}] %}
-  <a href="#{{include.figname}}">Figure {{fig.name}}</a>
-{% endif %}
+{% if include.fn %}{% assign fig = site.data.figs[{{include.fn}}] %}<a href="#{{include.fn}}">Figure {{fig.number}}</a>{% endif %}
