@@ -29,7 +29,7 @@ The choice between the different theories is not straightforward, but I (_the or
 
 <a id=box3></a>
 <details>
-  <summary><b>Box 3.</b> Ploidy levels</summary>
+  <summary><b>Box 3.</b> Eukaryotic flagellum</summary>
   <br>
   The eukaryotic flagellum is one of the most complex subcellular structures and its appearance raises several evolutionary questions. How could such a complex structure be set up? Particularly a structure that seems to provide a selective advantage - swimming in the water column - only when it is complete? How could the cell produce a flagellum by spontaneous assembly of molecules?
   <br><br>
