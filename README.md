@@ -7,7 +7,7 @@ It uses github pages with the [minima](https://github.com/jekyll/minima) theme a
 ## Figures
 
 ### Figure numbering
-The shell script index_figures.sh numbers the figures according to how they sort with the -V option. If you want to add a figure e.g. between 1 and 2, you would name the new figure 2a_whatever.png. This file name will sort between 1 and 2, and become Figure 2 on the site (former Figure 2 is now 3, and so on).
+The shell script index_figures.sh numbers the figures according to how they sort with the -V option. If you want to add a figure e.g. between 1 and 2, you would name the new figure 2a_whatever.png. This file name will be sorted in between 1 and 2, and become Figure 2 on the site (former Figure 2 is now 3, and so on).
 
 ### Figure reference system
 Figures are inserted into the markdown with the help of two jekyll includes: fignum.html for referring to the figure in the flowing text and figure.html for the actual figure. figure.html has no trailing newline, to make sure that there is no line break in the flowing text. If you want to refer to a figure without parentheses, add an html space ```&nbsp;``` before calling the include. Usage of these includes in the markdown:
