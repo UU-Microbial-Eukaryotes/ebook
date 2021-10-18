@@ -9,6 +9,18 @@ summary {
 }
 
 /// Added styling for image captions
+figcaption {
+  text-align: center;
+  color: $grey-color;
+  margin-top: $spacing-unit / 3;
+
+  .figure-number {
+      font-weight: bold;
+      display:inline;
+  }
+}
+
+/// This code was used for a previous way of styling figures.
 .image-wrapper {
     text-align: center;
 
