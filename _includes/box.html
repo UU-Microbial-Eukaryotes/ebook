@@ -1,0 +1,9 @@
+<!-- _includes/box.html
+include to add a box in the markdown text.
+-->
+<a id=box{{include.boxnum}}></a>
+<details>
+  <summary><b>Box {{include.boxnum}}.</b> {{include.boxtitle}}</summary>
+  <br>
+  {{include.boxcontent}}
+</details>
