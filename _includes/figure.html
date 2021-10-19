@@ -1,0 +1,22 @@
+<!-- _includes/figure.html
+include to add a figure in the markdown text.
+Takes the figure basename and caption as input, search the site.data.figs
+for the figure, and put it into the text. FOrmat the caption to make it look'
+nice.
+-->
+<br>
+{% if include.figname %}
+  {% assign fig = site.data.figs[{{include.figname}}] %}
+  <a id="{{ fig.name }}"></a>
+  <figure>
+  <img src="{{ site.baseurl }}{{ fig.url }}"
+       alt="Figure {{ fig.name }}">
+  {% if include.caption %}
+    <figcaption>
+      <p class="figure-number">Figure {{ fig.number }}.</p>
+      {{ include.caption }}
+    </figcaption>
+    {% endif %}
+  </figure>
+{% endif %}
+<br>
