@@ -66,3 +66,27 @@
   name: 017.euk_genes
   url: /assets/images/1.3/017.euk_genes.png
   number: 17
+018.eukarogenesis:
+  name: 018.eukarogenesis
+  url: /assets/images/1.4/018.eukarogenesis.png
+  number: 18
+019.nucleus-appearance:
+  name: 019.nucleus-appearance
+  url: /assets/images/1.4/019.nucleus-appearance.png
+  number: 19
+020.endocytosis:
+  name: 020.endocytosis
+  url: /assets/images/1.4/020.endocytosis.png
+  number: 20
+021.euk-loki:
+  name: 021.euk-loki
+  url: /assets/images/1.4/021.euk-loki.png
+  number: 21
+022.hydrogen-hypothesis:
+  name: 022.hydrogen-hypothesis
+  url: /assets/images/1.4/022.hydrogen-hypothesis.png
+  number: 22
+023.mito-phagotrophy:
+  name: 023.mito-phagotrophy
+  url: /assets/images/1.4/023.mito-phagotrophy.png
+  number: 23
