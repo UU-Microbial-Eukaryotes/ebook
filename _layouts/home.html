@@ -34,3 +34,17 @@ Create a table of contents.
     {% endfor %}
 {% endif %}
 </div>
+
+<!--
+Let's see if I can access all png's.
+-->
+{% for file in site.static_files %}
+  <ul>
+
+    {% if file.extname == ".png" -%}
+      <li><a href="{{ file.path | prepend: site.baseurl }}">{{ file.name }}</a></li>
+
+    {%- endif %}
+  </ul>
+
+{% endfor %}

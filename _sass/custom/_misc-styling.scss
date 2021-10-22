@@ -1,0 +1,40 @@
+/// Added styling for details and summary to beautify dropdown menus
+details {
+  background: #eee;
+  margin-bottom: 2rem;
+  padding: .5rem 1rem;
+}
+summary {
+  cursor: pointer;
+}
+
+/// Added styling for image captions
+figcaption {
+  text-align: center;
+  color: $grey-color;
+  margin-top: $spacing-unit / 3;
+
+  .figure-number {
+      font-weight: bold;
+      display:inline;
+  }
+}
+
+/// This code was used for a previous way of styling figures.
+.image-wrapper {
+    text-align: center;
+
+    .image-number {
+        color: $grey-color;
+        margin-top: $spacing-unit / 3;
+        font-weight: bold;
+        display:inline;
+    }
+
+    .image-caption {
+        color: $grey-color;
+        margin-top: $spacing-unit / 3;
+        display:inline;
+    }
+
+}
