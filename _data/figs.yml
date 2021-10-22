@@ -90,3 +90,159 @@
   name: 023.mito-phagotrophy
   url: /assets/images/1.4/023.mito-phagotrophy.png
   number: 23
+024.reclinomonas:
+  name: 024.reclinomonas
+  url: /assets/images/1.5/024.reclinomonas.png
+  number: 24
+025.mito-tree:
+  name: 025.mito-tree
+  url: /assets/images/1.5/025.mito-tree.png
+  number: 25
+026.atp-adp:
+  name: 026.atp-adp
+  url: /assets/images/1.5/026.atp-adp.png
+  number: 26
+027.mito-genes:
+  name: 027.mito-genes
+  url: /assets/images/1.5/027.mito-genes.png
+  number: 27
+028.mito-introns:
+  name: 028.mito-introns
+  url: /assets/images/1.5/028.mito-introns.png
+  number: 28
+029.mito-size:
+  name: 029.mito-size
+  url: /assets/images/1.5/029.mito-size.png
+  number: 29
+030.energy:
+  name: 030.energy
+  url: /assets/images/1.5/030.energy.png
+  number: 30
+031.hydrogenosome:
+  name: 031.hydrogenosome
+  url: /assets/images/1.5/031.hydrogenosome.png
+  number: 31
+032.cristae:
+  name: 032.cristae
+  url: /assets/images/1.5/032.cristae.png
+  number: 32
+033.mito-phylogenies:
+  name: 033.mito-phylogenies
+  url: /assets/images/1.5/033.mito-phylogenies.png
+  number: 33
+034.glauco:
+  name: 034.glauco
+  url: /assets/images/1.5/034.glauco.png
+  number: 34
+035.cyano-tree:
+  name: 035.cyano-tree
+  url: /assets/images/1.5/035.cyano-tree.png
+  number: 35
+036.plastid-genomes:
+  name: 036.plastid-genomes
+  url: /assets/images/1.5/036.plastid-genomes.png
+  number: 36
+037.polytomella:
+  name: 037.polytomella
+  url: /assets/images/1.5/037.polytomella.png
+  number: 37
+038.plastid-membranes:
+  name: 038.plastid-membranes
+  url: /assets/images/1.5/038.plastid-membranes.png
+  number: 38
+039.green-plastid:
+  name: 039.green-plastid
+  url: /assets/images/1.5/039.green-plastid.png
+  number: 39
+040.red-plastid:
+  name: 040.red-plastid
+  url: /assets/images/1.5/040.red-plastid.png
+  number: 40
+041.dino-plastid:
+  name: 041.dino-plastid
+  url: /assets/images/1.5/041.dino-plastid.png
+  number: 41
+042.dino-plastid-genes:
+  name: 042.dino-plastid-genes
+  url: /assets/images/1.5/042.dino-plastid-genes.png
+  number: 42
+043.photosynthesis:
+  name: 043.photosynthesis
+  url: /assets/images/1.5/043.photosynthesis.png
+  number: 43
+044.other-photosynthesis:
+  name: 044.other-photosynthesis
+  url: /assets/images/1.5/044.other-photosynthesis.png
+  number: 44
+045.hatena:
+  name: 045.hatena
+  url: /assets/images/1.5/045.hatena.png
+  number: 45
+046.lichen:
+  name: 046.lichen
+  url: /assets/images/1.5/046.lichen.png
+  number: 46
+047.plant-fungi:
+  name: 047.plant-fungi
+  url: /assets/images/1.5/047.plant-fungi.png
+  number: 47
+048.ectosymbiosis:
+  name: 048.ectosymbiosis
+  url: /assets/images/1.5/048.ectosymbiosis.png
+  number: 48
+049.epibiont:
+  name: 049.epibiont
+  url: /assets/images/1.5/049.epibiont.png
+  number: 49
+050.parasites:
+  name: 050.parasites
+  url: /assets/images/1.5/050.parasites.png
+  number: 50
+051.hyper-parasites:
+  name: 051.hyper-parasites
+  url: /assets/images/1.5/051.hyper-parasites.png
+  number: 51
+052.colonies:
+  name: 052.colonies
+  url: /assets/images/1.5/052.colonies.png
+  number: 52
+053.timeline:
+  name: 053.timeline
+  url: /assets/images/1.5/053.timeline.png
+  number: 53
+054.fossil:
+  name: 054.fossil
+  url: /assets/images/1.5/054.fossil.png
+  number: 54
+055.nostoc:
+  name: 055.nostoc
+  url: /assets/images/1.5/055.nostoc.png
+  number: 55
+056.multicellularity:
+  name: 056.multicellularity
+  url: /assets/images/1.5/056.multicellularity.png
+  number: 56
+057.multicellular-algae:
+  name: 057.multicellular-algae
+  url: /assets/images/1.5/057.multicellular-algae.png
+  number: 57
+058.slug:
+  name: 058.slug
+  url: /assets/images/1.5/058.slug.png
+  number: 58
+059.attached:
+  name: 059.attached
+  url: /assets/images/1.5/059.attached.png
+  number: 59
+060.regulation:
+  name: 060.regulation
+  url: /assets/images/1.5/060.regulation.png
+  number: 60
+061.nadph:
+  name: 061.nadph
+  url: /assets/images/1.5/061.nadph.png
+  number: 61
+062.multicellar-euks:
+  name: 062.multicellar-euks
+  url: /assets/images/1.5/062.multicellar-euks.png
+  number: 62
