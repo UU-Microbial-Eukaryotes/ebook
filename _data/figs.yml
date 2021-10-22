@@ -1,64 +1,64 @@
-1_prok-cell:
-  name: 1_prok-cell
-  url: /assets/images/1_prok-cell.png
+001.prok-cell:
+  name: 001.prok-cell
+  url: /assets/images/1.1/001.prok-cell.png
   number: 1
-2_prok-flagella:
-  name: 2_prok-flagella
-  url: /assets/images/2_prok-flagella.png
+002.prok-flagella:
+  name: 002.prok-flagella
+  url: /assets/images/1.1/002.prok-flagella.png
   number: 2
-3_euk-cell:
-  name: 3_euk-cell
-  url: /assets/images/3_euk-cell.png
+003.euk-cell:
+  name: 003.euk-cell
+  url: /assets/images/1.1/003.euk-cell.png
   number: 3
-4_vesicles:
-  name: 4_vesicles
-  url: /assets/images/4_vesicles.png
+004.vesicles:
+  name: 004.vesicles
+  url: /assets/images/1.1/004.vesicles.png
   number: 4
-5_pseudopodia:
-  name: 5_pseudopodia
-  url: /assets/images/5_pseudopodia.png
+005.pseudopodia:
+  name: 005.pseudopodia
+  url: /assets/images/1.1/005.pseudopodia.png
   number: 5
-6_microtubules-flagella:
-  name: 6_microtubules-flagella
-  url: /assets/images/6_microtubules-flagella.png
+006.microtubules-flagella:
+  name: 006.microtubules-flagella
+  url: /assets/images/1.1/006.microtubules-flagella.png
   number: 6
-7_mitosis:
-  name: 7_mitosis
-  url: /assets/images/7_mitosis.png
+007.mitosis:
+  name: 007.mitosis
+  url: /assets/images/1.1/007.mitosis.png
   number: 7
-8_meiosis:
-  name: 8_meiosis
-  url: /assets/images/8_meiosis.png
+008.meiosis:
+  name: 008.meiosis
+  url: /assets/images/1.1/008.meiosis.png
   number: 8
-9_lifecycle:
-  name: 9_lifecycle
-  url: /assets/images/9_lifecycle.png
+009.lifecycle:
+  name: 009.lifecycle
+  url: /assets/images/1.1/009.lifecycle.png
   number: 9
-10_phagocytosis:
-  name: 10_phagocytosis
-  url: /assets/images/10_phagocytosis.png
+010.phagocytosis:
+  name: 010.phagocytosis
+  url: /assets/images/1.1/010.phagocytosis.png
   number: 10
-11_pirellula:
-  name: 11_pirellula
-  url: /assets/images/11_pirellula.png
+011.pirellula:
+  name: 011.pirellula
+  url: /assets/images/1.2/011.pirellula.png
   number: 11
-12_gemmata:
-  name: 12_gemmata
-  url: /assets/images/12_gemmata.png
+012.gemmata:
+  name: 012.gemmata
+  url: /assets/images/1.2/012.gemmata.png
   number: 12
-13_gemmata-divides:
-  name: 13_gemmata-divides
-  url: /assets/images/13_gemmata-divides.png
+013.gemmata-divides:
+  name: 013.gemmata-divides
+  url: /assets/images/1.2/013.gemmata-divides.png
   number: 13
-14_dinos-chromo:
-  name: 14_dinos-chromo
-  url: /assets/images/14_dinos-chromo.png
+014.dinos-chromo:
+  name: 014.dinos-chromo
+  url: /assets/images/1.2/014.dinos-chromo.png
   number: 14
-15_splice:
-  name: 15_splice
-  url: /assets/images/15_splice.png
+015.splice:
+  name: 015.splice
+  url: /assets/images/1.2/015.splice.png
   number: 15
-16_mito:
-  name: 16_mito
-  url: /assets/images/16_mito.png
+016.mito:
+  name: 016.mito
+  url: /assets/images/1.2/016.mito.png
   number: 16

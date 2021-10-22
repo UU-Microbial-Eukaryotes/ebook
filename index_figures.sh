@@ -2,7 +2,7 @@
 
 rm _data/figs.yml
 count=1
-for fig in `ls assets/images/*.png | sort -V`;do
+for fig in `ls assets/images/*/*.png | sort -V`;do
   bn=`basename $fig .png`
   echo "$bn:" >> _data/figs.yml
   echo "  name: $bn" >> _data/figs.yml
