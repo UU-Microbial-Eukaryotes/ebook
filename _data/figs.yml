@@ -246,3 +246,15 @@
   name: 062.multicellar-euks
   url: /assets/images/1.5/062.multicellar-euks.png
   number: 62
+063.haeckel-tree:
+  name: 063.haeckel-tree
+  url: /assets/images/2.1/063.haeckel-tree.png
+  number: 63
+064.euk-forms:
+  name: 064.euk-forms
+  url: /assets/images/2.1/064.euk-forms.png
+  number: 64
+065.trophic:
+  name: 065.trophic
+  url: /assets/images/2.1/065.trophic.png
+  number: 65
