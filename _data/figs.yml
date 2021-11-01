@@ -258,3 +258,31 @@
   name: 065.trophic
   url: /assets/images/2.1/065.trophic.png
   number: 65
+066.haplotypes:
+  name: 066.haplotypes
+  url: /assets/images/2.2/066.haplotypes.png
+  number: 66
+067.para-sex:
+  name: 067.para-sex
+  url: /assets/images/2.2/067.para-sex.png
+  number: 67
+068.coprophile:
+  name: 068.coprophile
+  url: /assets/images/2.2/068.coprophile.png
+  number: 68
+069.culture-plate:
+  name: 069.culture-plate
+  url: /assets/images/2.2/069.culture-plate.png
+  number: 69
+070.pie-chart:
+  name: 070.pie-chart
+  url: /assets/images/2.2/070.pie-chart.png
+  number: 70
+071.amoeba:
+  name: 071.amoeba
+  url: /assets/images/2.2/071.amoeba.png
+  number: 71
+072.craterellus:
+  name: 072.craterellus
+  url: /assets/images/2.2/072.craterellus.png
+  number: 72
