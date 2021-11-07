@@ -93,6 +93,8 @@ About 200 species constitute the phylum of **Blastocladiomycota**. They have zoo
 ### _Olpidium_
 The last group of chytridiomycetes, the _Olpidium_, are obligate parasites of plants and cannot be cultivated without their hosts. Their life cycle is simple without known sexuality ({%- include fignum.html fn="119.Olpidium" -%}). The phylogenetic position of _Olpidium_ is currently under debate, but recent evidence support _Olpidium_ as the sister group to all terrestrial fungi as shown in Figure 111, suggesting a single flagellum loss when coming out of the water during the evolution of fungi.
 
+<a id = "olpidium_life"></a>
+
 {% include figure.html figname="119.Olpidium" caption="<i>Olpidium bornovanus</i> life cycle. This species parasitizes cucumber roots. Root cells are dispersed and infected by zoospores. These have the possibility of becoming encysted. Inside the host, the parasite grows monocentrically as a protoplast that will differentiate into a dormant spore or a sporangium. Zoospores are then expelled." %}
 
 <br>
