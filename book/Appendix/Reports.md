@@ -5,6 +5,5 @@ category: Reports
 ---
 # Reports
 {% include back-to-index.html %}
-links to report pdfs will be here.
 
-![Mucor circinelloides]({{"/assets/pdfs/Report_Filippa_Fungi_edited.pdf" | relative_url}})
+<object data=<object data="/assets/pdfs/Report_Filippa_Fungi_edited.pdf" width="1000" height="1000" type='application/pdf'></object>
