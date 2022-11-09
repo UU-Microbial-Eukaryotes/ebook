@@ -143,3 +143,7 @@ toc:
             url: /book/Part3/interactions/sections/plant_parasites.html
           - page: Damage to buildings, art objects and other structures
             url: /book/Part3/interactions/sections/damages.html
+  - title: Appendix
+    subfolderitems:
+      - page: Reports
+        url: /book/Appendix/Reports.html
