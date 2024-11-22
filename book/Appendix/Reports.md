@@ -6,7 +6,7 @@ category: Reports
 # Reports
 {% include back-to-index.html %}
 
-<a href="ebook/assets/pdfs/Report_Filippa_Fungi_edited.pdf">Mucor circinelloides</a>
+<a href="/ebook/assets/pdfs/Report_Filippa_Fungi_edited.pdf">Mucor circinelloides</a>
 <a href="ebook/assets/pdfs/algae_jansson.a.pdf">Rhinomonas sp.</a>
 <a href="ebook/assets/pdfs/Algae_report_Julius_Falck.pdf">Monoraphidium mirabile</a>
 <a href="ebook/assets/pdfs/Fungi_jansson.a.pdf">Mucor circinelloides</a>
