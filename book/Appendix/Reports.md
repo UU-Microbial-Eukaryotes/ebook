@@ -12,7 +12,7 @@ category: Reports
 <a href="/ebook/assets/pdfs/Fungi_jansson.a.pdf">Mucor circinelloides</a>  
 <a href="/ebook/assets/pdfs/Fungi_report_Julius_Falck.pdf">Absidia coerulea</a>  
 <a href="/ebook/assets/pdfs/Lab_report_algae-CamdenKK.pdf">Aphanocapsa sp.</a>  
-<a href="/ebook/assets/pdfs/Lab_report_fungi-CamdenKK1.pdf">Mucor circinelloides</a>  
+<a href="/ebook/assets/pdfs/Lab_report_fungi-CamdenKK-1.pdf">Mucor circinelloides</a>  
 <a href="/ebook/assets/pdfs/Mucoraceae_sp.pdf">Mucoraceae sp.</a>  
 <a href="/ebook/assets/pdfs/Scenedesmus_sp.pdf">Scenedesmus sp.</a>  
 <a href="/ebook/assets/pdfs/Identify_Sampled_Fungi.pdf">Pichia terricola</a>  
