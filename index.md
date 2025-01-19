@@ -6,8 +6,6 @@ layout: home
 ---
 # Microbial Eukaryotes: Origin, evolution and biology
 
-# N.B. Site currently under construction!
-
 ![Eukaryotic protists]({{"/assets/images/cover_art.jpg" | relative_url}})
 
 Original author: Philippe Silar
