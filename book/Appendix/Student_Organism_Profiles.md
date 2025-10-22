@@ -15,4 +15,13 @@ category: Profiles
 <a href="/ebook/assets/pdfs/Opisthokonta - Alma Lindqvist.pdf">Salpingoeca rosetta</a>  
 <a href="/ebook/assets/pdfs/Phaeodactylum tricornutum.pdf">Phaeodactylum tricornutum</a>  
 <a href="/ebook/assets/pdfs/PoRHYRA.pdf">Porphyra</a>  
-<a href="/ebook/assets/pdfs/Termitomyces 1 .pdf">Termitomyces</a>  
+<a href="/ebook/assets/pdfs/Andersson.pdf">Pleurotus ostreatus</a>  
+<a href="/ebook/assets/pdfs/Boli.pdf">Microheliella maris</a> 
+<a href="/ebook/assets/pdfs/Costa.pdf">Prymnesium parvum</a> 
+<a href="/ebook/assets/pdfs/Giuriceo.pdf">Letharia vulpina</a> 
+<a href="/ebook/assets/pdfs/Gross.pdf">Plasmodium</a> 
+<a href="/ebook/assets/pdfs/Gudelytė.pdf">Spirotrichonymphea</a> 
+<a href="/ebook/assets/pdfs/Islam.pdf">Trypanosoma brucei</a> 
+<a href="/ebook/assets/pdfs/Norin.pdf">Batrachochytrium dendrobatidis</a> 
+<a href="/ebook/assets/pdfs/Ritchie.pdf">Thecamonas trahens</a> 
+<a href="/ebook/assets/pdfs/Seinturier.pdf">Galdieria sulphuraria</a>
